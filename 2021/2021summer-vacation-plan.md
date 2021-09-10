@@ -72,7 +72,7 @@
   著者：加藤 公一  
   出版社：SBクリエイティブ  
   ISBN：9784797393965  
-  ![『機械学習のエッセンス -実装しながら学ぶPython,数学,アルゴリズム-』](https://images-fe.ssl-images-amazon.com/images/I/514DjOwjLUL._SY291_BO1,204,203,200_QL40_ML2_.jpg)
+  ![『機械学習のエッセンス -実装しながら学ぶPython,数学,アルゴリズム-』](https://www.hanmoto.com/bd/img/9784797393965.jpg?2018-09-26T16%3A40%3A26%2B09%3A00)
 
 ## KPI（経過を評価する数値指標）
 
